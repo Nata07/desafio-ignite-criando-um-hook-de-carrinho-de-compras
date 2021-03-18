@@ -12,6 +12,11 @@ export const Container = styled.div`
     justify-content: space-between;
     align-items: center;
 
+    p {
+      display: block;
+      justify-content: center;
+      text-align: center;
+    }
     button {
       background: #7159c1;
       color: #fff;
